@@ -13,16 +13,22 @@ sudo pip3 install pyrebase
 #Go to directory containing manage.py file
 
 #Run commands
+
 python3 manage.py makemigrations
+
 python3 manage.py migrate
+
 python3 manage.py runserver
-go to 127.0.0.1:8000
+
+go to 127.0.0.1:8000 on your browser
 
 
 #test account info:
 There are 2 types of accounts:
 General
 Account related to Department or Club
+You can use accounts: h@gmail.com passwd:123456  //cadence club associated account
+                      shivam@gmail.com passwd: 123456 //General User
 
 #Posting Rights
 Any body can post any material to the site
