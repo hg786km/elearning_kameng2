@@ -4,7 +4,7 @@
 
 #clone this repo
 
-git clone https://github.com/khiladimahan1210/elearning_kameng.git
+git clone https://github.com/khiladimahan1210/elearning_kameng2.git
 
 #install pyrebase
 
